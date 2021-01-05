@@ -1,19 +1,30 @@
 <?php
-//20161224
-//game fetch from grid, players, linescore, rawboxscore已臻完備
+/*
+20161224
+game fetch from grid, players, linescore, rawboxscore已臻完備
+game fetch的table有從數個檔案匯入資料
+*/
+
 ini_set("max_execution_time", "864000");
+
+/*
+2016的connection to MySQL寫法是這樣，後續已改成include_once('mysql_cpbl_link.php');
+*/
 $db_host = "localhost";
 $db_id = "forresthsia";
 $db_password = "hbo45890";
 mysql_connect($db_host,$db_id,$db_password);
 $dbselect = mysql_select_db ("mlb_games");
+
+
 $year = array(2018);
 $month = array("03","04","05","06","07","08","09","10");
 $day = array("01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31");
-//xml to array的php也可以先call進來
-//估計不動到它的function的話, 也不會破壞原本就在使用的xml功能與結構
+
+//因應xml檔案內容讀取格式不同，include兩個外掛
 include ("x2agaarf.php");
 include ("x2abinco.php");
+
 for($i=0;$i<11;$i++){
 	for($j=0;$j<8;$j++){
 		for($k=0;$k<31;$k++){
@@ -23,7 +34,7 @@ for($i=0;$i<11;$i++){
 			//然後, 以每日grid內的屬性輸入mysql
 			foreach($xml as $games){
 				@$game = $games[0]["id"];
-				//下為轉換gid格式，以便download XML
+				//下為轉換gid格式，以讀取XML
 				@$gstring = str_replace("-","_",$game);
 				@$gstring3 = str_replace("/","_",$gstring);
 				@$gstring2 = "gid_".$gstring3;
@@ -85,6 +96,7 @@ for($i=0;$i<11;$i++){
 				`game_id` = '".$gstring2."'";
 				mysql_query($linescorequery);
 				
+				//umpire fetch from players
 				@$playersxml = ('D:/xampp/htdocs/www/mlb_database/players/'.$year[$i].'/'.$gstring2.'_players.xml');
 				@$players = file_get_contents($playersxml);
 				@$result = xml2array($players,1);
@@ -117,7 +129,7 @@ for($i=0;$i<11;$i++){
 								  WHERE `game_id` = '".$gstring2."'";
 								  mysql_query($query);
 								  
-				//inning_all_xml檢測, 看看inning_all.xml是不是沒有download到, 有的時候因雨延賽的話, inning_all.xml裡面就會是空的
+				//資料量大，發現有些檔案下載或是parse會遺失某些比賽，故進行inning_all_xml檢測, 看看inning_all.xml是不是沒有download到, 有的時候因雨延賽的話, inning_all.xml裡面就會是空的
 				@$inningallxml = "D:/xampp/htdocs/www/mlb_database/inning_all/".$year[$i]."/".$gstring2."_inning_all.xml";
 				@$inningall = fopen($inningallxml,"r");
 				if (!$inningall){

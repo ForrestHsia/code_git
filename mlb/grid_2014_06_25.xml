@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Copyright 2014 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt-->
+<games date="20140625">
+   <game calendar_event_id="14-381717-2014-06-25" id="2014/06/25/pitmlb-tbamlb-1"
+         game_pk="381717"
+         group="MLB"
+         game_type="R"
+         event_time="12:10 PM"
+         venue="Tropicana Field"
+         venue_id="12"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="Y"
+         away_code="pit"
+         away_file_code="pit"
+         away_team_id="134"
+         away_name_abbrev="PIT"
+         away_team_name="Pirates"
+         away_score="1"
+         home_code="tba"
+         home_file_code="tb"
+         home_team_id="139"
+         home_name_abbrev="TB"
+         home_team_name="Rays"
+         home_score="5"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33794541" display="SUN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33794541" display="SUN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33794541" display="SUN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33794541" display="SUN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33794539" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33794539" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33794539" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33794539" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34037515" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34037515" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33794543" display="WDAE"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33794545" display="KDKA"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381720-2014-06-25" id="2014/06/25/wasmlb-milmlb-1"
+         game_pk="381720"
+         group="MLB"
+         game_type="R"
+         event_time="2:10 PM"
+         venue="Miller Park"
+         venue_id="32"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="Y"
+         away_code="was"
+         away_file_code="was"
+         away_team_id="120"
+         away_name_abbrev="WSH"
+         away_team_name="Nationals"
+         away_score="2"
+         home_code="mil"
+         home_file_code="mil"
+         home_team_id="158"
+         home_name_abbrev="MIL"
+         home_team_name="Brewers"
+         home_score="9"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_away" id="33794735" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33794735" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33794735" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33794735" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34037513" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34037513" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33794739" display="WTMJ"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_home_audio" id="33794737" display="WRRD"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33794741" display="WJFK"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381719-2014-06-25" id="2014/06/25/slnmlb-colmlb-1"
+         game_pk="381719"
+         group="MLB"
+         game_type="R"
+         event_time="3:10 PM"
+         venue="Coors Field"
+         venue_id="19"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="sln"
+         away_file_code="stl"
+         away_team_id="138"
+         away_name_abbrev="STL"
+         away_team_name="Cardinals"
+         away_score="9"
+         home_code="col"
+         home_file_code="col"
+         home_team_id="115"
+         home_name_abbrev="COL"
+         home_team_name="Rockies"
+         home_score="6"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_away" id="33794807" display="FSMW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33794807" display="FSMW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33794807" display="FSMW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33794807" display="FSMW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34038553" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34038553" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33794803" display="KNRV"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33794809" display="KOA"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33794799" display="KMOX"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381718-2014-06-25" id="2014/06/25/sdnmlb-sfnmlb-1"
+         game_pk="381718"
+         group="MLB"
+         game_type="R"
+         event_time="3:45 PM"
+         venue="AT&amp;T Park"
+         venue_id="2395"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="Y"
+         away_code="sdn"
+         away_file_code="sd"
+         away_team_id="135"
+         away_name_abbrev="SD"
+         away_team_name="Padres"
+         away_score="0"
+         home_code="sfn"
+         home_file_code="sf"
+         home_team_id="137"
+         home_name_abbrev="SF"
+         home_team_name="Giants"
+         home_score="4"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33794849" display="CSBA-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33794849" display="CSBA-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33794849" display="CSBA-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33794849" display="CSBA-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33794843" display="FSSD-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33794843" display="FSSD-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33794843" display="FSSD-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33794843" display="FSSD-HD" free="ALL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34037983" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34037983" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33794847" display="KTRB"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33794845" display="KNBR"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33794841" display="XPRS"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_away_audio" id="33794839" display="XEMO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381708-2014-06-25" id="2014/06/25/chamlb-balmlb-1"
+         game_pk="381708"
+         group="MLB"
+         game_type="R"
+         event_time="7:05 PM"
+         venue="Oriole Park at Camden Yards"
+         venue_id="2"
+         status="Final"
+         ind="F"
+         inning="12"
+         top_inning="N"
+         away_code="cha"
+         away_file_code="cws"
+         away_team_id="145"
+         away_name_abbrev="CWS"
+         away_team_name="White Sox"
+         away_score="4"
+         home_code="bal"
+         home_file_code="bal"
+         home_team_id="110"
+         home_name_abbrev="BAL"
+         home_team_name="Orioles"
+         home_score="5"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33794891" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33794891" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33794891" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33794891" display="MASN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33794899" display="CSC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33794899" display="CSC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33794899" display="CSC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33794899" display="CSC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34053439" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34053439" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33794897" display="WBAL"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33794895" display="WSCR"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_away_audio" id="33794889" display="WNUA"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381709-2014-06-25" id="2014/06/25/cinmlb-chnmlb-1"
+         game_pk="381709"
+         group="MLB"
+         game_type="R"
+         event_time="7:05 PM"
+         venue="Wrigley Field"
+         venue_id="17"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="cin"
+         away_file_code="cin"
+         away_team_id="113"
+         away_name_abbrev="CIN"
+         away_team_name="Reds"
+         away_score="4"
+         home_code="chn"
+         home_file_code="chc"
+         home_team_id="112"
+         home_name_abbrev="CHC"
+         home_team_name="Cubs"
+         home_score="1"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33794949" display="WGN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33794949" display="WGN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33794949" display="WGN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33794949" display="WGN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33794945" display="FSO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33794945" display="FSO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33794945" display="FSO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33794945" display="FSO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34052731" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34052731" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33794943" display="WGN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33794939" display="WLW"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381713-2014-06-25" id="2014/06/25/miamlb-phimlb-1"
+         game_pk="381713"
+         group="MLB"
+         game_type="R"
+         event_time="7:05 PM"
+         venue="Citizens Bank Park"
+         venue_id="2681"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="mia"
+         away_file_code="mia"
+         away_team_id="146"
+         away_name_abbrev="MIA"
+         away_team_name="Marlins"
+         away_score="3"
+         home_code="phi"
+         home_file_code="phi"
+         home_team_id="143"
+         home_name_abbrev="PHI"
+         home_team_name="Phillies"
+         home_score="2"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795015" display="CSP-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795015" display="CSP-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795015" display="CSP-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795015" display="CSP-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795011" display="FSFL-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795011" display="FSFL-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795011" display="FSFL-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795011" display="FSFL-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34048325" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34048325" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33795021" display="SBP"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33795013" display="WPHT"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_away_audio" id="33795019" display="WAQI"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795017" display="WINZ"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381715-2014-06-25" id="2014/06/25/nyamlb-tormlb-1"
+         game_pk="381715"
+         group="MLB"
+         game_type="R"
+         event_time="7:07 PM"
+         venue="Rogers Centre"
+         venue_id="14"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="nya"
+         away_file_code="nyy"
+         away_team_id="147"
+         away_name_abbrev="NYY"
+         away_team_name="Yankees"
+         away_score="5"
+         home_code="tor"
+         home_file_code="tor"
+         home_team_id="141"
+         home_name_abbrev="TOR"
+         home_team_name="Blue Jays"
+         home_score="3"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_inmarket" id="33795063" display="RSN"
+                   combined_media_state="MEDIA_ON"
+                   state="MEDIA_ON"
+                   blackout="MLB_INMARKET_141_BLACKOUT"
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_inmarket" id="33795063" display="RSN"
+                   combined_media_state="MEDIA_ON"
+                   state="MEDIA_ON"
+                   blackout="MLB_INMARKET_141_BLACKOUT"
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_home" id="33795055" display="RSN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795055" display="RSN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795055" display="RSN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795055" display="RSN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795057" display="YES-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795057" display="YES-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795057" display="YES-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795057" display="YES-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34045501" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34045501" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33795061" display="SN590"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_away_audio" id="33795059" display="WADO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795067" display="WFAN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381716-2014-06-25" id="2014/06/25/oakmlb-nynmlb-1"
+         game_pk="381716"
+         group="MLB"
+         game_type="R"
+         event_time="7:10 PM"
+         venue="Citi Field"
+         venue_id="3289"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="oak"
+         away_file_code="oak"
+         away_team_id="133"
+         away_name_abbrev="OAK"
+         away_team_name="Athletics"
+         away_score="8"
+         home_code="nyn"
+         home_file_code="nym"
+         home_team_id="121"
+         home_name_abbrev="NYM"
+         home_team_name="Mets"
+         home_score="5"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795123" display="SNY-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795123" display="SNY-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795123" display="SNY-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795123" display="SNY-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795119" display="CSCA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795119" display="CSCA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795119" display="CSCA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795119" display="CSCA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34048895" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34048895" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33795125" display="WEPN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33795121" display="WOR"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795117" display="KGMZ"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381711-2014-06-25" id="2014/06/25/detmlb-texmlb-1"
+         game_pk="381711"
+         group="MLB"
+         game_type="R"
+         event_time="8:05 PM"
+         venue="Globe Life Park in Arlington"
+         venue_id="13"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="det"
+         away_file_code="det"
+         away_team_id="116"
+         away_name_abbrev="DET"
+         away_team_name="Tigers"
+         away_score="8"
+         home_code="tex"
+         home_file_code="tex"
+         home_team_id="140"
+         home_name_abbrev="TEX"
+         home_team_name="Rangers"
+         home_score="6"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795169" display="FSSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795169" display="FSSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795169" display="FSSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795169" display="FSSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795161" display="FSD-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795161" display="FSD-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795161" display="FSD-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795161" display="FSD-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34054109" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34054109" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33795167" display="KZMP"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33795165" display="KESN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795163" display="WXYT"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381706-2014-06-25" id="2014/06/25/atlmlb-houmlb-1"
+         game_pk="381706"
+         group="MLB"
+         game_type="R"
+         event_time="8:10 PM"
+         venue="Minute Maid Park"
+         venue_id="2392"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="atl"
+         away_file_code="atl"
+         away_team_id="144"
+         away_name_abbrev="ATL"
+         away_team_name="Braves"
+         away_score="4"
+         home_code="hou"
+         home_file_code="hou"
+         home_team_id="117"
+         home_name_abbrev="HOU"
+         home_team_name="Astros"
+         home_score="0"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795219" display="CSH-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795219" display="CSH-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795219" display="CSH-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795219" display="CSH-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795215" display="SS-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795215" display="SS-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795215" display="SS-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795215" display="SS-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34054735" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34054735" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33795213" display="KBME"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_home_audio" id="33795209" display="KLAT"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795217" display="WCNN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381712-2014-06-25" id="2014/06/25/lanmlb-kcamlb-1"
+         game_pk="381712"
+         group="MLB"
+         game_type="R"
+         event_time="8:10 PM"
+         venue="Kauffman Stadium"
+         venue_id="7"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="lan"
+         away_file_code="la"
+         away_team_id="119"
+         away_name_abbrev="LAD"
+         away_team_name="Dodgers"
+         away_score="5"
+         home_code="kca"
+         home_file_code="kc"
+         home_team_id="118"
+         home_name_abbrev="KC"
+         home_team_name="Royals"
+         home_score="4"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795251" display="FSKC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795251" display="FSKC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795251" display="FSKC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795251" display="FSKC-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795255" display="SNLA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795255" display="SNLA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795255" display="SNLA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795255" display="SNLA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34054101" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34054101" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33795249" display="KCSP"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795253" display="KLAC"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_away_audio" id="33795247" display="KTNQ"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381710-2014-06-25" id="2014/06/25/clemlb-arimlb-1"
+         game_pk="381710"
+         group="MLB"
+         game_type="R"
+         event_time="9:40 PM"
+         venue="Chase Field"
+         venue_id="15"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="cle"
+         away_file_code="cle"
+         away_team_id="114"
+         away_name_abbrev="CLE"
+         away_team_name="Indians"
+         away_score="6"
+         home_code="ari"
+         home_file_code="ari"
+         home_team_id="109"
+         home_name_abbrev="ARI"
+         home_team_name="D-backs"
+         home_score="1"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795299" display="FSA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795299" display="FSA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795299" display="FSA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795299" display="FSA-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795293" display="STO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795293" display="STO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795293" display="STO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795293" display="STO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34054731" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34054731" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="home_audio" id="33795301" display="KTAR"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_home_audio" id="33795303" display="KSUN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795295" display="WTAM"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381714-2014-06-25" id="2014/06/25/minmlb-anamlb-1"
+         game_pk="381714"
+         group="MLB"
+         game_type="R"
+         event_time="10:05 PM"
+         venue="Angel Stadium of Anaheim"
+         venue_id="1"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="Y"
+         away_code="min"
+         away_file_code="min"
+         away_team_id="142"
+         away_name_abbrev="MIN"
+         away_team_name="Twins"
+         away_score="2"
+         home_code="ana"
+         home_file_code="ana"
+         home_team_id="108"
+         home_name_abbrev="LAA"
+         home_team_name="Angels"
+         home_score="6"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795333" display="FSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795333" display="FSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795333" display="FSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795333" display="FSW-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795337" display="FSNO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795337" display="FSNO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795337" display="FSNO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795337" display="FSNO-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34054047" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34054047" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33856447" display="KWKW"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33795343" display="KLAA"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795341" display="TIBN"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+   <game calendar_event_id="14-381707-2014-06-25" id="2014/06/25/bosmlb-seamlb-1"
+         game_pk="381707"
+         group="MLB"
+         game_type="R"
+         event_time="10:10 PM"
+         venue="Safeco Field"
+         venue_id="680"
+         status="Final"
+         ind="F"
+         inning="9"
+         top_inning="N"
+         away_code="bos"
+         away_file_code="bos"
+         away_team_id="111"
+         away_name_abbrev="BOS"
+         away_team_name="Red Sox"
+         away_score="5"
+         home_code="sea"
+         home_file_code="sea"
+         home_team_id="136"
+         home_name_abbrev="SEA"
+         home_team_name="Mariners"
+         home_score="4"
+         gameday_sw="P"
+         double_header_sw="N"
+         tbd_flag="N"
+         game_nbr="1"
+         media_state="media_archive">
+      <game_media>
+         <homebase>
+            <media type="mlbtv_home" id="33795415" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_home" id="33795415" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_home" id="33795415" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_home" id="33795415" display="ROOT-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="mlbtv_away" id="33795419" display="NESN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED"/>
+            <media type="mlbtv_away" id="33795419" display="NESN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_ADS"/>
+            <media type="mlbtv_away" id="33795419" display="NESN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="HTTP_CLOUD_WIRED_WEB"/>
+            <media type="mlbtv_away" id="33795419" display="NESN-HD" free="NO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="FMS_CLOUD"/>
+            <media type="condensed_game" id="34054733" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1200K_640X360"/>
+            <media type="condensed_game" id="34054733" state="MEDIA_ARCHIVE"
+                   playback_scenario="FLASH_1800K_960X540"/>
+            <media type="alt_home_audio" id="33795411" display="ROOT"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="home_audio" id="33795413" display="KIRO"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="away_audio" id="33795417" display="WEEI"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+            <media type="alt_away_audio" id="33795421" display="SBP"
+                   combined_media_state="MEDIA_ARCHIVE"
+                   state="MEDIA_ARCHIVE"
+                   blackout=""
+                   playback_scenario="AUDIO_FMS_32K"/>
+         </homebase>
+         <newsroom/>
+      </game_media>
+   </game>
+</games>

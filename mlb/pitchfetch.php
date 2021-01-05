@@ -1,8 +1,7 @@
 <?php
 
-
 //要抓半局半局之間的資料
-//要從allfetch的code著手
+//要從atbatfetch的code著手
 //畢竟grid.xml並沒有半局之間的分別
 //==================
 //20161224
@@ -14,10 +13,14 @@ $db_id = "forresthsia";
 $db_password = "hbo45890";
 mysql_connect($db_host,$db_id,$db_password);
 $dbselect = mysql_select_db ("mlb_pitch");
+
+
 $year = array(2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018);
 $month = array("11");//20181201, 有November的另計
 $day = array("01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31");
 include ("x2agaarf.php");
+
+
 for($i=0;$i<11;$i++){
 	for($j=0;$j<1;$j++){
 		for($k=0;$k<31;$k++){
@@ -32,7 +35,7 @@ for($i=0;$i<11;$i++){
 				@$inningallxml = ("D:/xampp/htdocs/www/mlb_database/inning_all/".$year[$i]."/".$gstring2."_inning_all.xml");
 				@$inningall = file_get_contents($inningallxml);
 				@$result = xmlstr_to_array($inningall);
-				@$inning = $result["inning"];//裡面有3個array, 分別是top, bottom跟@attributes, 但@attributes的值是inning 裡面的屬性質而已, 就那麼兩三個
+				@$inning = $result["inning"];// <-這裡面有3個array, 分別是top, bottom跟@attributes, (因為要的資料方式不一樣，include的外掛也會不一樣)但@attributes的值是inning 裡面的屬性質而已, 就那麼兩三個
 				for($t=0; $t<count($inning); $t++){
 					for($u=0; $u<2; $u++){
 						@$half = array("top","bottom");
