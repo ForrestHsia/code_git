@@ -1,6 +1,9 @@
-20210111
-
 此為2014年開發的樣品管理系統與供應商管理系統
 選單內容因為資料庫的關係無法呈現
 
 選擇以html頁面截圖顯示並附上coding
+
+Coding的部分主要有兩個部分
+
+A. 樣品管理系統code是job_project的sample.php跟sample_result.php
+B. 供應商管理code是job_project裡面所有其他php
